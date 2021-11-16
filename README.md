@@ -1,3 +1,6 @@
+Python-mini-projects 收录一组可用于提高 Python 技能的练手小项目，让你在实操中掌握更多技能。
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
